@@ -1,4 +1,4 @@
-﻿namespace FactoryDesignPattern.Entities
+﻿namespace FactoryMethodDesignPattern.Entites
 {
     public class Titanium : ICreditCard
     {

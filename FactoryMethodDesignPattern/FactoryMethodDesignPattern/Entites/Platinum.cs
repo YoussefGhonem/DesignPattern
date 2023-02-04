@@ -1,10 +1,10 @@
-﻿namespace FactoryDesignPattern.Entities
+﻿namespace FactoryMethodDesignPattern.Entites
 {
-    public class Titanium : ICreditCard
+    public class Platinum : ICreditCard
     {
         public string GetCardType()
         {
-            return "Titanium";
+            return "Platinum";
         }
         public int GetCreditLimit()
         {

@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AbstractFactoryDesignPattern"
   ],
+  "SelectedNode": "\\AbstractFactoryDesignPattern\\AbstractFactoryDesignPattern.csproj",
   "PreviewInSolutionExplorer": false
 }
